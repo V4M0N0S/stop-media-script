@@ -1,5 +1,5 @@
 # STOP MEDIA! Tampermonkey Script
-Small Tampermonkey Script that stops media when run out of visible screen.
+Stops media playback when the player leaves the visible screen.
 
 ## Contributing
 🔥 Pull requests are welcome. 
